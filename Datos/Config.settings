@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Datos" GeneratedClassName="COnfig">
+  <Profiles />
+  <Settings>
+    <Setting Name="Servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="Instancia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost\SQLEXPRESS</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
